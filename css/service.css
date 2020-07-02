@@ -1,0 +1,23 @@
+
+
+.service{
+    margin-top: 20px;
+    width: 1440px;
+    left: -16px;
+    top: 0px;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+  
+}
+.service__inner{
+    width: 1440px;
+    background-color: rgb(245, 231, 231);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+  
+}

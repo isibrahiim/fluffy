@@ -1,0 +1,20 @@
+
+.about{
+
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+
+width: 1440px;
+left: -16px;
+top: 0px;
+background-color: rgb(155, 149, 149);
+}
+
+.about__h1{
+
+  
+    text-align: center;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}

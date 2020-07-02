@@ -1,0 +1,24 @@
+
+.header{
+
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+
+width: 1440px;
+height: 810px;
+left: -16px;
+top: 0px;
+background-color: rgb(255, 246, 246);
+}
+
+.header__flimg{
+
+    display: flex;
+
+
+}
+
+
+
+
